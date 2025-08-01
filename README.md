@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+![Me](https://drive.google.com/file/d/164S-yEWgyskshhhgJOt8FxKaXTl5LSDj/view?usp=sharing)
+
 I’m **Anitej Isaac Sharma**, a recent B.Sc. Computer Science graduate from [The University of British Columbia](https://www.ubc.ca/), class of 2025.
 
 During the four years at UBC, I built a strong foundation in computer science, data analytics, and software engineering—while also broadening my perspective with courses in management, mathematics, languages, and the humanities.

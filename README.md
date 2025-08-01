@@ -1,19 +1,15 @@
 ## Hi there! 👋
 
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisaaxs/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aisaaxs/)
-
----
-
 I’m **Anitej Isaac Sharma**, a recent B.Sc. Computer Science graduate from [The University of British Columbia](https://www.ubc.ca/), class of 2025.
 
 Over the last four years at UBC, I built a strong foundation in computer science, data analytics, and software engineering—while also broadening my perspective with courses in management, mathematics, languages, and the humanities.
 
 After graduating, I dedicated 2.5 months to job hunting and participated in numerous interviews. My perseverance paid off when I landed a role as a **Software Support Specialist** with Tyler Technologies in July 2025.
+
+#### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisaaxs/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aisaaxs/)
 
 ---
 

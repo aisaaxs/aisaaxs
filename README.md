@@ -70,6 +70,7 @@ During the four years at UBC, I built a strong foundation in computer science, d
 - PHIL 331: Computer Ethics  
 </details>
 
+---
 
 ### Experience
 
@@ -85,6 +86,7 @@ During the four years at UBC, I built a strong foundation in computer science, d
 | Machine Learning Developer Intern – FIFA MVP   | StatusNeo, India <br> May 2022 – Aug 2022                                    | Built real-time ML player search MVP for FIFA project.       |
 | Kitchen Attendant                             | UBC Okanagan, Kelowna, BC <br> Sep 2021 – Dec 2021                           | Maintained cleanliness and supported food service.           |
 
+---
 
 ### Technical Skillset
 
@@ -102,6 +104,7 @@ During the four years at UBC, I built a strong foundation in computer science, d
 | System & IT Tools             | [![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)]() [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]() [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)]() [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]() [![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)]() |
 | Productivity Tools             | [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]() [![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]() [![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)]() [![OneDrive](https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=microsoftonedrive&logoColor=white)]() [![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)]()    |
 
+---
 
 ### Certifications & Additional Skills
 

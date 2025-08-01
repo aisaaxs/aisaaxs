@@ -174,16 +174,19 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 
 ## 📝 Certifications & Additional Skills
 
+**Certifications:**
 [![Docker Foundations Professional](https://img.shields.io/badge/Docker%20Foundations%20Professional-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
 [![TensorFlow 2.0](https://img.shields.io/badge/TensorFlow%202.0%20Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![C# Unity 3D](https://img.shields.io/badge/C%23%20Unity%203D-222C37?style=for-the-badge&logo=unity&logoColor=white)]()
 [![ChatGPT & AI in MS Office](https://img.shields.io/badge/AI%20in%20MS%20Office-25C2A0?style=for-the-badge&logo=openai&logoColor=white)]()
 
+**Languages:**
 [![English](https://img.shields.io/badge/English-Fluent-1E90FF?style=for-the-badge)]()
 [![Hindi](https://img.shields.io/badge/Hindi-Native-FF9933?style=for-the-badge)]()
 [![French](https://img.shields.io/badge/French-Elementary-0055A4?style=for-the-badge)]()
 [![Latin](https://img.shields.io/badge/Latin-Elementary-FFD700?style=for-the-badge)]()
 
+**Soft Skills:**
 [![Problem Solving](https://img.shields.io/badge/Problem%20Solving-00C853?style=for-the-badge&logo=target&logoColor=white)]()
 [![Teamwork](https://img.shields.io/badge/Teamwork-2E8B57?style=for-the-badge&logo=teamspeak&logoColor=white)]()
 [![Adaptability](https://img.shields.io/badge/Adaptability-7B1FA2?style=for-the-badge)]()
@@ -191,6 +194,7 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 [![Active Listening](https://img.shields.io/badge/Active%20Listening-1976D2?style=for-the-badge)]()
 [![Resilience](https://img.shields.io/badge/Resilience-FF7043?style=for-the-badge)]()
 
+**IELTS:**
 [![IELTS 8.5](https://img.shields.io/badge/IELTS%20Overall-8.5-1E90FF?style=for-the-badge)]()
 [![Listening 9.0](https://img.shields.io/badge/Listening-9.0-4CAF50?style=for-the-badge)]()
 [![Speaking 9.0](https://img.shields.io/badge/Speaking-9.0-2196F3?style=for-the-badge)]()

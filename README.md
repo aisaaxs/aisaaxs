@@ -4,6 +4,8 @@ I’m **Anitej Isaac Sharma**, a recent B.Sc. Computer Science graduate from [Th
 
 During the four years at UBC, I built a strong foundation in computer science, data analytics, and software engineering—while also broadening my perspective with courses in management, mathematics, languages, and the humanities.
 
+---
+
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisaaxs/)
@@ -11,7 +13,7 @@ During the four years at UBC, I built a strong foundation in computer science, d
 
 ---
 
-### 📚 My UBC Coursework
+### My UBC Coursework
 
 <details>
   <summary><strong>Technical Courses</strong></summary>
@@ -70,7 +72,47 @@ During the four years at UBC, I built a strong foundation in computer science, d
 
 ---
 
-### 🧰 Technical Skillset
+## Experience
+
+**Professional Development Assistant**  
+UBC Engineering, Kelowna, BC — Sep 2024 – Apr 2025  
+Centralized key resources and automated mentorship for 200+ students.
+
+**Collegia Assistant**  
+UBC Okanagan, Kelowna, BC — Sep 2023 – Apr 2025  
+Supported commuter students and led community programs.
+
+**Residence Advisor**  
+UBC Okanagan, Kelowna, BC — Aug 2023 – Apr 2024  
+Promoted residence safety, community, and engagement.
+
+**Power Platform Developer Intern**  
+SRF Limited, Gurugram, India — May 2024 – Aug 2024  
+Developed Power Platform apps and automated workflows.
+
+**Peer Leader**  
+UBC Okanagan, Kelowna, BC — May 2023 – Jun 2023  
+Guided new students and facilitated orientation activities.
+
+**Undergraduate Research Assistant**  
+UBC Okanagan (Remote) — Jan 2023 – Apr 2023  
+Analyzed StackOverflow data to support engagement strategy.
+
+**Notetaker**  
+UBC Okanagan (Remote) — Jan 2023 – Apr 2023  
+Provided course notes for computer science classes.
+
+**Machine Learning Developer Intern – FIFA MVP Project**  
+StatusNeo, India — May 2022 – Aug 2022  
+Built real-time ML player search MVP for FIFA project.
+
+**Kitchen Attendant**  
+UBC Okanagan, Kelowna, BC — Sep 2021 – Dec 2021  
+Maintained cleanliness and supported food service.
+
+---
+
+### Technical Skillset
 
 **Programming Languages**
 
@@ -161,7 +203,7 @@ During the four years at UBC, I built a strong foundation in computer science, d
 
 ---
 
-### 📝 Certifications & Additional Skills
+### Certifications & Additional Skills
 
 **Certifications**
 

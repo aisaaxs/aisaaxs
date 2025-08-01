@@ -65,16 +65,6 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 
 ---
 
-### 💡 What I’m Passionate About
-
-- Problem-solving, both individually and on collaborative teams
-- Applying data-driven insights to real-world challenges
-- Building robust, user-centered software
-
-I’m always open to new challenges, open-source collaboration, and connecting with fellow developers. Check out my repositories below, and feel free to reach out!
-
----
-
 ## 💼 Experience
 
 **Software Support Specialist**  

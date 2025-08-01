@@ -6,6 +6,8 @@ Over the last four years at UBC, I built a strong foundation in computer science
 
 After graduating, I dedicated 2.5 months to job hunting and participated in numerous interviews. My perseverance paid off when I landed a role as a **Software Support Specialist** with Tyler Technologies in July 2025.
 
+---
+
 ### 📚 My UBC Coursework
 
 <details>
@@ -65,7 +67,7 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 
 ---
 
-## 🧰 Technical Skillset
+### 🧰 Technical Skillset
 
 **Programming Languages**
 
@@ -156,7 +158,7 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 
 ---
 
-## 📝 Certifications & Additional Skills
+### 📝 Certifications & Additional Skills
 
 **Certifications**
 
@@ -191,3 +193,10 @@ After graduating, I dedicated 2.5 months to job hunting and participated in nume
 [![Writing 8.0](https://img.shields.io/badge/Writing-8.0-9E9E9E?style=for-the-badge)]()
 
 ---
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aisaaxs/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aisaaxs/)

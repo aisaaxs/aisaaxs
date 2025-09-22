@@ -4,5 +4,5 @@ My name is Anitej Isaac Sharma. I have a Bachelor of Science degree in Computer 
 
 Thank you!
 
-Best,
-\nAnitej Isaac Sharma
+Best,\
+Anitej Isaac Sharma

@@ -1,4 +1,4 @@
-# Hello World,
+# Hello World
 
 My name’s Anitej Isaac Sharma, but since we’re friends now, just call me Ani. I’m your friendly neighbourhood developer who loves breaking things just to fix them better, learning tech I’ll probably never use again, and occasionally building stuff for fun (or out of existential necessity).
 
